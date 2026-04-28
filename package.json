@@ -1,6 +1,6 @@
 {
   "name": "@progfay/textlint-rule-preset-ja",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "textlint-ja rule preset for @progfay",
   "repository": {
     "type": "git",
